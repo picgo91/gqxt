@@ -1,4 +1,4 @@
-# 独立https
+# 一、独立https
 
 系统只支持centos7
 
@@ -12,7 +12,7 @@ yum install -y wget && wget https://raw.githubusercontent.com/picgo91/gqxt/main/
 
 
 
-# Https过移动
+# 二、Https过移动
 
 ## 一键下载命令：
 ```
@@ -28,7 +28,7 @@ wget https://raw.githubusercontent.com/picgo91/gqxt/main/gyd && chmod 744 /root/
 
 
 
-# 301pass
+# 三、真301
 此应用程序是一个真正的 301 重定向应用程序，因为它在响应标头中响应 301 状态代码。
 
 ## 运行方式
